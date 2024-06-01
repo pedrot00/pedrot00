@@ -6,7 +6,7 @@
 
 ### 📚 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 ### 🧠 Extras
 
