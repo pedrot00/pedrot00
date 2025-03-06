@@ -6,11 +6,11 @@
 
 #### 📚 Main Stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,node,tailwind,html,css)](https://skillicons.dev)
 
 #### 🧠 Extras:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,figma,mysql,java,c++,c)](https://skillicons.dev)
 
 #### 🌐 Socials:
 
