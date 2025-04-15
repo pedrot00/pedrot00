@@ -10,7 +10,7 @@
 
 #### 🧠 Extras:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,git,figma,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,py,mysql,figma,java,)](https://skillicons.dev)
 
 #### 🌐 Socials:
 
