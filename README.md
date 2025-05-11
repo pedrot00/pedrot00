@@ -6,7 +6,7 @@
 
 #### 📚 Main Stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,html,css)](https://skillicons.dev)
 
 #### 🧠 Extras:
 
