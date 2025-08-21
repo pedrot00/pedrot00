@@ -1,6 +1,6 @@
 ### Hi there, i'm Pedro 👋
 
-💻 I've been a systems developer since 2022, starting with C/C++ and building a solid foundation in programming logic, CRUD, data structures, and algorithm analysis and optimization. I currently work as a web developer, with experience in object-oriented programming, systems analysis, documentation, databases, and computer networks. Feel free to check out my repositories!
+💻 I've been a systems developer since 2022, starting with C/C++ and building a solid foundation in programming logic, CRUD, data structures, algorithm analysis and optimization. I currently work as a web developer, with experience in object-oriented programming, systems analysis, documentation, databases, and computer networks. Feel free to check out my repositories!
 
 * 🌍  I was already a Computer Technician student at IFBA, but I don't have a technical degree. Currently studying Computer Science at the Federal University of Viçosa (UFV).
 
