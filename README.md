@@ -2,7 +2,7 @@
 
 💻 Computer Science student at the Federal University of Viçosa (UFV), with experience building web applications using Node.js/Express and Java/Spring Boot. Experience with REST APIs, relational databases, authentication, business rules, object-oriented programming, software architecture and documentation.
 
-Also involved in scientific research and data analysis with Python, Pandas and Machine Learning.Feel free to explore my repositories!
+Also involved in scientific research and data analysis with Python, Pandas and Machine Learning. Feel free to explore my repositories!
 
 #### 📚 Main Stacks:
 
